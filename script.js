@@ -1,5 +1,5 @@
 const chatBody = document.querySelector(".chat-body");
-const messageInput = document.querySelector(".message-input");
+const messageInput = document.querySelector(".message-input"); //ok
 const sendMessageButton = document.querySelector("#send-message");
 
 //API setup
